@@ -20,7 +20,7 @@ Its a quiz game in which a countries name will be provided to the user and user 
 ### Frontend
 - **HTML** 
 - **CSS**
-
+- **Javascript**
 
 ### Backend
 - **Node.js**
@@ -32,6 +32,5 @@ Its a quiz game in which a countries name will be provided to the user and user 
 ### Others
 - **EJS**
 
-### node modules
-- **Bodyperser**
+
 
